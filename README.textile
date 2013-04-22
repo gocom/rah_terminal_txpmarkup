@@ -1,3 +1,9 @@
 h1. Textpattern Tag Markup module for rah_terminal
 
 p. Parses and prints out results of given Textpattern's @<txp:tag />@ markup.
+
+h2. Changelog
+
+h3. Version 0.1.0 - upcoming
+
+* Initial release.
