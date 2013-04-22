@@ -15,12 +15,6 @@
  * http://www.gnu.org/licenses/gpl-2.0.html
  */
 
-	new rah_terminal__txpmarkup();
-
-/**
- * Texttpattern markup module.
- */
-
 class rah_terminal__txpmarkup
 {
 	/**
@@ -59,3 +53,5 @@ class rah_terminal__txpmarkup
 		return parse($markup);
 	}
 }
+
+new rah_terminal__txpmarkup();
