@@ -1,0 +1,25 @@
+{
+    "name": "rah/rah_terminal_txpmarkup",
+    "description": "Textpattern markup language module for rah_terminal",
+    "keywords": ["textpattern"],
+    "homepage": "https://github.com/gocom/rah_terminal_txpmarkup",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Jukka Svahn",
+            "homepage": "http://rahforum.biz",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/gocom/rah_terminal_txpmarkup/issues",
+        "source": "https://github.com/gocom/rah_terminal_txpmarkup"
+    },
+    "autoload": {
+        "files": []
+    },
+    "require": {
+        "php": ">=5.2.0",
+        "rah/rah_terminal": "0.1.*@dev"
+    }
+}
