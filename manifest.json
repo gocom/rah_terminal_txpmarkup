@@ -1,5 +1,5 @@
 {
-	"name"        : "rah_terminal__txpmarkup",
+	"name"        : "rah_terminal_txpmarkup",
 	"description" : "TXP Markup module for rah_terminal",
 	"version"     : "0.1.0",
 	"type"        : 4,
