@@ -2,8 +2,15 @@ h1. Textpattern Tag Markup module for rah_terminal
 
 p. Parses and prints out results of given Textpattern's @<txp:tag />@ markup.
 
+h2. Requirements
+
+p. Minimum requirements:
+
+* Textpattern 4.5.0
+* "Rah_terminal":https://github.com/gocom/rah_terminal 0.1.0
+
 h2. Changelog
 
-h3. Version 0.1.0 - upcoming
+h3. Version 0.1.0 - 2013/04/24 - "Download":http://rahforum.biz/d/rah_terminal_txpmarkup_v0.1.0_zip.txt
 
 * Initial release.
