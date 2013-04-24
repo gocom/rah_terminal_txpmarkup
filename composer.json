@@ -20,6 +20,6 @@
     },
     "require": {
         "php": ">=5.2.0",
-        "rah/rah_terminal": "0.1.*@dev"
+        "rah/rah_terminal": "0.1.*"
     }
 }
