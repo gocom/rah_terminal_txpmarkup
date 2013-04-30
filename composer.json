@@ -4,6 +4,7 @@
     "keywords": ["textpattern"],
     "homepage": "https://github.com/gocom/rah_terminal_txpmarkup",
     "license": "GPL-2.0",
+    "type": "textpattern-plugin",
     "authors": [
         {
             "name": "Jukka Svahn",
@@ -19,7 +20,7 @@
         "files": []
     },
     "require": {
-        "php": ">=5.2.0",
+        "rah/textpattern-plugin-installer": "*@dev",
         "rah/rah_terminal": "0.1.*"
     }
 }
