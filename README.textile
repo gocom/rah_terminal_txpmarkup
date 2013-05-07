@@ -2,6 +2,12 @@ h1. Textpattern Tag Markup module for rah_terminal
 
 p. Parses and prints out results of given Textpattern's @<txp:tag />@ markup.
 
+h2. Installing
+
+p. Using "Composer":http://getcomposer.org:
+
+bc. $ composer.phar require rah/rah_terminal_txpmarkup
+
 h2. Requirements
 
 p. Minimum requirements:
@@ -11,6 +17,6 @@ p. Minimum requirements:
 
 h2. Changelog
 
-h3. Version 0.1.0 - 2013/04/24 - "Download":http://rahforum.biz/d/rah_terminal_txpmarkup_v0.1.0_zip.txt
+h3. Version 0.1.0 - 2013/04/24
 
 * Initial release.
