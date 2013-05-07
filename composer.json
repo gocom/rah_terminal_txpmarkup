@@ -16,9 +16,6 @@
         "issues": "https://github.com/gocom/rah_terminal_txpmarkup/issues",
         "source": "https://github.com/gocom/rah_terminal_txpmarkup"
     },
-    "autoload": {
-        "files": []
-    },
     "require": {
         "textpattern/installer": "*",
         "rah/rah_terminal": "0.1.*"
