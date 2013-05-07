@@ -1,7 +1,7 @@
 {
     "name": "rah/rah_terminal_txpmarkup",
     "description": "Textpattern markup language module for rah_terminal",
-    "keywords": ["textpattern"],
+    "keywords": ["textpattern", "plugin"],
     "homepage": "https://github.com/gocom/rah_terminal_txpmarkup",
     "license": "GPL-2.0",
     "type": "textpattern-plugin",
