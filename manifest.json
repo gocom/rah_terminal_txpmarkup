@@ -1,7 +1,7 @@
 {
 	"name"        : "rah_terminal_txpmarkup",
 	"description" : "TXP Markup module for rah_terminal",
-	"version"     : "0.1.0",
+	"version"     : "0.1.1",
 	"type"        : 4,
 	"author"      : "Jukka Svahn",
 	"author_uri"  : "http://rahforum.biz",
